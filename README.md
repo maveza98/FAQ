@@ -39,6 +39,9 @@
 
 ## Overview
 
+![screenshot](https://github.com/maveza98/FAQ/blob/main/Captura%20de%20pantalla%202025-08-24%20205104.png)
+![screenshot](https://github.com/maveza98/FAQ/blob/main/Captura%20de%20pantalla%202025-08-24%20205131.png)
+
 My solution to the **Simple FAQ** challenge is a responsive webpage that displays a list of frequently asked questions and their answers. The design is clean and modern, adapting to different screen sizes to provide an excellent user experience on both desktop and mobile devices.
 
 ### What I learned
